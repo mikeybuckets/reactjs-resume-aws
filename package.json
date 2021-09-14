@@ -1,0 +1,50 @@
+{
+  "name": "react-resume_091321",
+  "home": "http://projects.michaelcalendo.com/",
+  "version": "0.1.0",
+  "private": true,
+  "author": "Mike Calendo",
+  "dependencies": {
+    "@craco/craco": "^6.1.1",
+    "aos": "^3.0.0-beta.6",
+    "autoprefixer": "^9.8.6",
+    "cruip-js-toolkit": "^1.0.3",
+    "lodash": "^4.17.21",
+    "node-sass": "^5.0.0",
+    "postcss": "^8.2.9",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.3",
+    "reactstrap": "^8.9.0",
+    "react-transition-group": "^4.4.1",
+    "tailwindcss": "^2.1.1",
+    "tailwind-scrollbar-hide": "^1.0.3",
+    "web-vitals": "^1.1.1"
+  },
+  "scripts": {
+    "start": "craco start",
+    "build": "craco build && gulp licenses",
+    "test": "craco test --env=jsdom",
+    "eject": "react-scripts eject",
+    "install:clean": "rm -rf node_modules/ && rm -rf package-lock.json && craco install && craco start"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "sticky-js": "^1.3.0"
+  }
+}

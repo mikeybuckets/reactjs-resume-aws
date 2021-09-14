@@ -1,0 +1,57 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="48"
+  height="48"
+  viewBox="0 0 48 48"
+><g><rect
+      class="nc-transparent-rect"
+      x="0"
+      y="0"
+      width="48"
+      height="48"
+      rx="0"
+      ry="0"
+      fill="none"
+      stroke="none"
+    /><path
+      class="nc-transparent-rect"
+      fill="none"
+      stroke="none"
+      d="M48 0h-48v48h48v-48z"
+    /><path
+      class="nc-transparent-rect"
+      fill="none"
+      stroke="none"
+      d="M48 0h-48v48h48v-48z"
+    /><g
+      stroke-linecap="square"
+      stroke-width="3"
+      stroke-miterlimit="10"
+      fill="none"
+      stroke-linejoin="miter"
+      class="nc-icon-wrapper"
+      stroke="#54ffc6"
+    ><path
+        fill="#23292b"
+        stroke="none"
+        d="M26 8a18 18 0 1 1 0 36 18 18 0 1 1 0-36z"
+      /><path
+        stroke="inherit"
+        d="M4 36c-2.18 4.29-2.67 7.64-1.15 9.15 4.82 4.82 21.89-9.87 27.15-15.15 11.67-11.63 18.49-23.82 15.15-27.15-1.51-1.51-4.86-1.03-9.15 1.15"
+        data-color="color-2"
+        fill="inherit"
+      /><path
+        fill="#23292b"
+        stroke-linejoin="miter"
+        stroke="none"
+        d="M35.47 31.06a1.47 1.47 0 1 1 0 2.94 1.47 1.47 0 1 1 0-2.94z"
+      /><path
+        fill="#23292b"
+        stroke-linejoin="miter"
+        stroke="none"
+        d="M17.5 28a1.5 1.5 0 1 1 0 3 1.5 1.5 0 1 1 0-3z"
+      /><path
+        fill="#23292b"
+        stroke="none"
+        d="M24 17a3 3 0 1 1 0 6 3 3 0 1 1 0-6z"
+      /></g></g></svg>
