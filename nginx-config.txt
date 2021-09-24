@@ -1,0 +1,14 @@
+sudo mkdir -p /var/www/michaelcalendo.com/public_html
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Welcome to example.com</title>
+  </head>
+  <body>
+    <h1>Success! example.com home page!</h1>
+  </body>
+</html>
+
+sudo chown -R www-data: /var/www/michaelcalendo.com
